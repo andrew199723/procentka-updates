@@ -1,8 +1,8 @@
 {
-  "version": "0.2.10",
-  "downloadUrl": "https://github.com/andrew199723/procentka-updates/releases/download/v0.2.10/Procentka-Setup-0.2.10.exe",
-  "sha256": "ad17c4ce0d98b90747c5395cddd5afa3a76bc21ab2e4a90248fe213416e8c768",
-  "size": 99602922,
-  "notes": "Обновлённый экран поиска. Выпадающие фильтры по поставщикам, брендам и сроку, сортировка по цене.",
-  "publishedAt": "2026-11-05T06:57:44.356795+00:00"
+  "version": "0.2.11",
+  "downloadUrl": "https://github.com/andrew199723/procentka-updates/releases/download/v0.2.11/Procentka-Setup-0.2.11.exe",
+  "sha256": "4f7290dae283a32d21eda7be1501e5cb6cd12ca6925afe121fa0ad97ec0dad0d",
+  "size": 99585427,
+  "notes": "Все фильтры в верхней строке. Выровнены сроки и интервалы доставки.",
+  "publishedAt": "2026-11-05T07:13:37.554830+00:00"
 }
