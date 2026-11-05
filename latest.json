@@ -1,8 +1,8 @@
 {
-  "version": "0.2.4",
-  "downloadUrl": "https://github.com/andrew199723/procentka-updates/releases/download/v0.2.4/Procentka-Setup-0.2.4.exe",
-  "sha256": "59415dbea42f74fb4a6b43bc0793fe134d6507581f4aaf7e1e0e783646ac2655",
-  "size": 99742896,
-  "notes": "Проверка обновлений сравнивает оба источника и предлагает самую свежую версию.",
-  "publishedAt": "2026-11-05T04:53:06.725141+00:00"
+  "version": "0.2.5",
+  "downloadUrl": "https://github.com/andrew199723/procentka-updates/releases/download/v0.2.5/Procentka-Setup-0.2.5.exe",
+  "sha256": "295ecee67471d95ffc0a34a243fabc5651816b51b00445f44220160847fc9918",
+  "size": 99754043,
+  "notes": "Подсказки Москворечья по артикулу, выход из локального профиля, раннее окно запуска и фоновая подготовка следующих обновлений.",
+  "publishedAt": "2026-11-05T05:22:08.281082+00:00"
 }
