@@ -1,8 +1,8 @@
 {
-  "version": "0.2.6",
-  "downloadUrl": "https://github.com/andrew199723/procentka-updates/releases/download/v0.2.6/Procentka-Setup-0.2.6.exe",
-  "sha256": "53c109d8bede9dc0e5c0608a02c5a84b942d0b6fdf81ad4d25a3d5037db5f60c",
-  "size": 99753131,
-  "notes": "Внутри приложения теперь видны полоса и проценты скачивания и установки обновления. После подготовки нажмите «Перезапустить».",
-  "publishedAt": "2026-11-05T05:45:23.065761+00:00"
+  "version": "0.2.7",
+  "downloadUrl": "https://github.com/andrew199723/procentka-updates/releases/download/v0.2.7/Procentka-Setup-0.2.7.exe",
+  "sha256": "6e23bf5c9998b7fb70036808792cb9a003f4e7f4e517d76f743d58644ee8b994",
+  "size": 99760589,
+  "notes": "Поиск показывает наименование детали из Москворечья в подсказке, сохраняет уточнения и раньше выводит первые цены.",
+  "publishedAt": "2026-11-05T06:06:37.990594+00:00"
 }
