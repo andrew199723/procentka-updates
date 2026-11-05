@@ -1,8 +1,8 @@
 {
-  "version": "0.2.3",
-  "downloadUrl": "https://github.com/andrew199723/procentka-updates/releases/download/v0.2.3/Procentka-Setup-0.2.3.exe",
-  "sha256": "39838226cf5cc2d0dab49407d5594a68f37e6d5b96c867883a1c197315a5f4cd",
-  "size": 99742245,
-  "notes": "Белый список аналогов через Москворечье на Timeweb.",
-  "publishedAt": "2026-11-05T04:42:25.342467+00:00"
+  "version": "0.2.4",
+  "downloadUrl": "https://github.com/andrew199723/procentka-updates/releases/download/v0.2.4/Procentka-Setup-0.2.4.exe",
+  "sha256": "59415dbea42f74fb4a6b43bc0793fe134d6507581f4aaf7e1e0e783646ac2655",
+  "size": 99742896,
+  "notes": "Проверка обновлений сравнивает оба источника и предлагает самую свежую версию.",
+  "publishedAt": "2026-11-05T04:53:06.725141+00:00"
 }
