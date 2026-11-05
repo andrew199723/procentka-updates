@@ -1,8 +1,8 @@
 {
-  "version": "0.2.8",
-  "downloadUrl": "https://github.com/andrew199723/procentka-updates/releases/download/v0.2.8/Procentka-Setup-0.2.8.exe",
-  "sha256": "38083e6d90b5bf37b62a15dc989a5121f8c2035d6f14ddef343c63ee6f7f93ef",
-  "size": 99592732,
-  "notes": "Новый интерфейс Windows: экран загрузки, боковое меню и фильтры в рабочем окне поиска.",
-  "publishedAt": "2026-11-05T06:23:37.548048+00:00"
+  "version": "0.2.9",
+  "downloadUrl": "https://github.com/andrew199723/procentka-updates/releases/download/v0.2.9/Procentka-Setup-0.2.9.exe",
+  "sha256": "1c770311d3206ee113f885589894fe0b74a128d1ee13ff3b0aa0ef1773254edf",
+  "size": 99602333,
+  "notes": "Обновлённый поиск и быстрые фильтры, компактный выбор количества, сворачиваемое меню и обновления в меню. Большие выдачи отображаются порциями.",
+  "publishedAt": "2026-11-05T06:42:52.350867+00:00"
 }
