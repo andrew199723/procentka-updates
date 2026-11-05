@@ -1,8 +1,8 @@
 {
-  "version": "0.2.13",
-  "downloadUrl": "https://github.com/andrew199723/procentka-updates/releases/download/v0.2.13/Procentka-Setup-0.2.13.exe",
-  "sha256": "1696113ade5fe3e4abf3b3d69d23914278704d141263053d92eb7638bb00b318",
-  "size": 99623293,
-  "notes": "Первый запуск открывает вход и регистрацию. Исправлена вставка артикула. Добавлены статусы в админке.",
-  "publishedAt": "2026-11-05T12:29:31.914729+00:00"
+  "version": "0.2.14",
+  "downloadUrl": "https://github.com/andrew199723/procentka-updates/releases/download/v0.2.14/Procentka-Setup-0.2.14.exe",
+  "sha256": "98d7ae0e54ad7747d876bbb474cb78d642a4c57db69b9ac59ae488f49f5f1783",
+  "size": 99618685,
+  "notes": "Диагностика профиля и исправление ошибок с разрешения пользователя.",
+  "publishedAt": "2026-11-05T16:38:09.587641+00:00"
 }
