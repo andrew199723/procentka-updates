@@ -1,8 +1,8 @@
 {
-  "version": "0.2.12",
-  "downloadUrl": "https://github.com/andrew199723/procentka-updates/releases/download/v0.2.12/Procentka-Setup-0.2.12.exe",
-  "sha256": "8124c1299730bed88cc026792b00f2c43b1b590e8bd3f6d9f1684c1e752a476c",
-  "size": 99606861,
-  "notes": "Обновлены «Заказы» и «Корзина», исправлен выбор периода. Даты учитывают часовой пояс ПК. Добавлен журнал запусков, регистраций, входов и ошибок Windows.",
-  "publishedAt": "2026-11-05T11:26:19.1116913+00:00"
+  "version": "0.2.13",
+  "downloadUrl": "https://github.com/andrew199723/procentka-updates/releases/download/v0.2.13/Procentka-Setup-0.2.13.exe",
+  "sha256": "1696113ade5fe3e4abf3b3d69d23914278704d141263053d92eb7638bb00b318",
+  "size": 99623293,
+  "notes": "Первый запуск открывает вход и регистрацию. Исправлена вставка артикула. Добавлены статусы в админке.",
+  "publishedAt": "2026-11-05T12:29:31.914729+00:00"
 }
